@@ -1,5 +1,12 @@
 #PHP Yaf Framework#
 
-基于鸟哥的YAF框架，整合一些自己的东西，便于后续快速开发
+This framework is based on the YAF framework of laruence，then add some personal library.
 
-E-mail:kevensuu@gamil.com
+
+###install the framework###
+
+```linux
+composer require kevensuu/php-yaf-framework
+```
+
+The best way to install the framework is using Composer.
