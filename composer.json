@@ -14,5 +14,8 @@
             "name": "kevensuu",
             "email": "kevensuu@gmail.com"
         }
-    ]
+    ],
+    "config": {
+        "preferred-install": "dist"
+    }
 }
