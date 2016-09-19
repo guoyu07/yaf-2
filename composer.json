@@ -6,7 +6,7 @@
     "homepage": "https://github.com/kevensuu/php-yaf-framework",
     "require": {
         "php": ">=5.2.0",
-        "php-yaf-extension" : ">=2.0.0"
+        "php-yaf-extension" : "*"
     },
     "license": "MIT",
     "authors": [
