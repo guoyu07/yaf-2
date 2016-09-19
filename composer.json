@@ -1,12 +1,12 @@
 {
     "name": "kevensuu/php-yaf-framework",
     "description": "the php framework of yaf",
-    "type": "php",
+    "type": "project",
     "keywords": ["php","framework", "yaf"],
     "homepage": "https://github.com/kevensuu/php-yaf-framework",
     "require": {
         "php": ">=5.2.0",
-        "ext-yaf" : "*"
+        "php-yaf-extension" : ">=2.0.0"
     },
     "license": "MIT",
     "authors": [
