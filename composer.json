@@ -4,14 +4,18 @@
     "type": "project",
     "keywords": ["php","framework", "yaf"],
     "homepage": "https://github.com/kevensuu/php-yaf-framework",
-    "license": "MIT",
     "require": {
-        "composer/installers": "~1.0"
+        "php": ">=5.2.0",
+        "kevensuu/php-yaf-framework":"*"
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "kevensuu",
             "email": "kevensuu@gmail.com"
         }
-    ]
+    ],
+    "config": {
+        "preferred-install": "dist"
+    }
 }
