@@ -5,6 +5,9 @@
     "keywords": ["php","framework", "yaf"],
     "homepage": "https://github.com/kevensuu/php-yaf-framework",
     "license": "MIT",
+    "require": {
+        "composer/installers": "~1.0"
+    },
     "authors": [
         {
             "name": "kevensuu",
