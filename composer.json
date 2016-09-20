@@ -15,7 +15,7 @@
             "email": "kevensuu@gmail.com"
         }
     ],
-    "config": {
-        "preferred-install": "dist"
+    "scripts": {
+        "post-install-cmd": "dist"
     }
 }
