@@ -6,7 +6,8 @@
     "homepage": "https://github.com/kevensuu/php-yaf-framework",
     "require": {
         "php": ">=5.2.0",
-        "kevensuu/php-yaf-framework":"*"
+        "kevensuu/php-yaf-framework":"*",
+        "php-curl-class/php-curl-class": "^6.0"
     },
     "license": "MIT",
     "authors": [
@@ -14,8 +15,5 @@
             "name": "kevensuu",
             "email": "kevensuu@gmail.com"
         }
-    ],
-    "scripts": {
-        "post-install-cmd": "dist"
-    }
+    ]
 }
