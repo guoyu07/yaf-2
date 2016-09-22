@@ -1,4 +1,5 @@
 #1.0.2
+add curl user example
 add php mysql operational class
 add php redis operational class
 

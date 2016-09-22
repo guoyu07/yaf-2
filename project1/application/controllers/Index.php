@@ -5,7 +5,6 @@
  * Date: 2016-09-20 20:10
  */
 
-use Curl\Curl;
 
 /**
  * Class IndexController
